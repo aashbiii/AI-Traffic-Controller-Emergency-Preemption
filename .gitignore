@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Environments
+.venv/
+venv/
+env/
+
+# Backup directories
+* - Copy*/
+TrafficApp - Copy/
+TrafficApp - Copy (2)/
+
+# Android & Gradle artifacts
+.gradle/
+.idea/
+.kotlin/
+build/
+app/build/
+local.properties
+*.iml
+
+# IDE / Editor files
+.vscode/
